@@ -1,0 +1,6 @@
+1. Navbar with all the links such as logout,chat,YourName
+2.
+
+
+Remaining:
+1. To view your details on the page
